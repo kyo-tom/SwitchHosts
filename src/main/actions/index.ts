@@ -19,6 +19,7 @@ export { default as getPathOfSystemHosts } from './hosts/getPathOfSystemHostsPat
 export { default as getHostsContent } from './hosts/getContent'
 export { default as setHostsContent } from './hosts/setContent'
 export { default as refreshHosts } from './hosts/refresh'
+export { default as updateHostsContent } from './hosts/updateContent'
 export { default as getSystemHosts } from './hosts/getSystemHosts'
 export { default as setSystemHosts } from './hosts/setSystemHosts'
 export { default as getHistoryList } from './hosts/getHistoryList'
